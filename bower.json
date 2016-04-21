@@ -1,14 +1,14 @@
 {
-  "name": "AccioCode AngularJS Tutorial",
+  "name": "Root Cave AngularJS Tutorial",
   "version": "1.0.0",
-  "homepage": "https://github.com/colorfest/angularjs",
+  "homepage": "https://github.com/rootcave/rc_angular_learn",
   "authors": [
-    "AccioCode"
+    "Root Cave"
   ],
-  "description": "AccioCode tutorial series for AngularJS",
+  "description": "Root Cave tutorial series for AngularJS",
   "main": "index.html",
   "keywords": [
-    "acciocode",
+    "rootcave",
     "angularjs",
     "grunt",
     "bower",

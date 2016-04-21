@@ -1,7 +1,7 @@
 {
   "name": "angularjstutorial",
   "version": "1.0.0",
-  "description": "AccioCode AngularJS tutorial series.",
+  "description": "Root Cave AngularJS tutorial series.",
   "main": "index.js",
   "dependencies": {
     "bower": "~1.3.12",
@@ -20,17 +20,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/colorfest/angularjs.git"
+    "url": "https://github.com/rootcave/rc_angular_learn"
   },
   "keywords": [
-    "acciocode",
+    "rootcave",
     "angularjs",
     "javascript"
   ],
-  "author": "AccioCode",
+  "author": "Mahmoud El Kotoury",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/colorfest/angularjs/issues"
+    "url": "https://github.com/rootcave/rc_angular_learn/issues"
   },
-  "homepage": "https://github.com/colorfest/angularjs"
+  "homepage": "https://github.com/rootcave/rc_angular_learn"
 }
