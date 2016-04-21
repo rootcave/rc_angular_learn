@@ -1,6 +1,6 @@
 # Root Cave Tutorials: AngularJS#
 
-***Updated: 2-10-16***
+***Updated: 4-21-16***
 
 This Angular JS Course is provided by Root Cave Web School is for [Root Cave](https://www.rootcave.com/ )employee and it will show how to use the basics of AngularJS. You will learn how to make a simple web page and a simple web application.
 
